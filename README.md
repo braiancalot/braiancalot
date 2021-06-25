@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Braian Calot.
 - I live in Brazil 🌎
-- Computer Science 8/8 🎓
+- Computer Science 7/8 🎓
 - I have been learnig more about Front-end 🖥️
 
 ## Connect with me:
