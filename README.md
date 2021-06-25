@@ -1,4 +1,7 @@
-### Hi, I'm Braian Calot! 👋
+### Hi there 👋
+## I'm Braian Calot.
+- I live in 🇧🇷
+- I have been learnig more about Front-End 🖥️
 
 <!--
 **braiancalot/braiancalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
