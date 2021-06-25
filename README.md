@@ -7,7 +7,7 @@
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/braian.calot/" target="_blank">
-<img align="center" alt="diego-instagram" height="30" width="30" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" style="max-width:100%;">
+<img align="center" alt="diego-instagram" height="30" width="30" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/braian.calot/" target="_blank">
 <img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;">
