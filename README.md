@@ -1,7 +1,9 @@
 ### Hi there 👋
 ## I'm Braian Calot.
 - I live in Brazil 🌎
+- I'm in the last semester of Computer Science at FAESA🎓
 - I have been learnig more about Front-end 🖥️
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/braiancalot/" target="_blank">
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
@@ -22,7 +24,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
 
-![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegoshakan&show_icons=true&count_private=true&theme=radical)
+
+
+[![Braian's GitHub stats](https://github-readme-stats.vercel.app/api?username=braiancalot&theme=gotham&show_icons=true)](https://github.com/braiancalot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiancalot&theme=gotham&show_icons=true)](https://github.com/braiancalot/github-readme-stats)
+
+
 
 <!--
 **braiancalot/braiancalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
