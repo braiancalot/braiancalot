@@ -10,7 +10,7 @@
 - 🌎 I live in **Brazil.**
 - ⚡ Fun fact: I love play games
 
-<br>
+
 <h2> 🛠️ Tech Stack </h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -24,7 +24,7 @@
 
 
 <div>
-  <br>
+  
   <h2>📲 Connect with me:</h2>
   <a href="https://www.linkedin.com/in/braiancalot/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   
-<br> 	
+<br>	
 <h2> ⚙️  GitHub Analytics </h2>
 <br>
 <div align="center">
