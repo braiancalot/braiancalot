@@ -48,9 +48,8 @@
 <div align="center">
   <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=braiancalot&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
   <br>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=braiancalot&theme=tokyonight&show_icons=true&hide_border=true&stroke=0000&background=060A0CD0"/>
-  <br>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiancalot&hide=html&layout=compact&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api?username=braiancalot&theme=tokyonight&show_icons=true&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiancalot&hide=html&layout=compact&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 
 
