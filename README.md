@@ -8,7 +8,7 @@
 - 🎓 Graduate in **Computer Science.**
 - 🖥️ I’m currently learning **Web Development.**
 - 🌎 I live in **Brazil.**
-- ⚡ Fun fact: I love play games.
+- ⚡ Fun fact: I love to play games.
 
 
 <h2> 🛠️ Tech Stack </h2>
