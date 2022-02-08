@@ -1,34 +1,67 @@
-### Hi there 👋
-## I'm Braian Calot.
-- I live in Brazil 🌎
-- Computer Science 8/8 🎓
-- I have been learnig more about Front-end 🖥️
-
-## Connect with me:
-<a href="https://www.linkedin.com/in/braiancalot/" target="_blank">
-<img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
-<a href="https://www.instagram.com/braian.calot/" target="_blank">
-<img align="center" alt="diego-instagram" height="30" width="30" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" style="max-width:100%;">
-</a>
-<a href="https://www.facebook.com/braian.calot/" target="_blank">
-<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;">
-</a>
-
-## My Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
-
-## Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
+<a href="#"><img width="100%" height="350px" src="prog.svg"></a>
 
 
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Braian Calot. </h1> 
+<h3 align="center">A Web Development student passionate about programming.</h3>
 
-[![Braian's GitHub stats](https://github-readme-stats.vercel.app/api?username=braiancalot&theme=gotham&show_icons=true)](https://github.com/braiancalot/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiancalot&theme=gotham&show_icons=true)](https://github.com/braiancalot/github-readme-stats)
+## 🙋‍♂ About Me
+- 🎓 Graduate in **Computer Science.**
+- 🖥️ I’m currently learning **Web Development.**
+- 🌎 I live in **Brazil.**
+- ⚡ Fun fact: I love play games
+
+<br>
+<h2> 🛠️ Tech Stack </h2>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
+
+
+<div>
+  <br>
+  <h2>📲 Connect with me:</h2>
+  <a href="https://www.linkedin.com/in/braiancalot/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/braian.calot/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/braian.calot/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UC_saKlMQ_08XvZ63i2jtf4A" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  
+<br> 	
+<h2> ⚙️  GitHub Analytics </h2>
+<br>
+<div align="center">
+  <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=braiancalot&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
+</div>
+ 
+<br>
+<div align="center">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=braiancalot&theme=tokyonight&show_icons=true&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiancalot&hide=html&layout=compact&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
+</div>
+
+
+
+ 
+
+
+
+
 
 
 <!--
