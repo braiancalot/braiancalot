@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Braian Calot. </h1> 
-<h3 align="center">A Web Development student passionate about programming.</h3>
+<h3 align="center">A Web Development passionate about programming.</h3>
 
 ## 🙋‍♂ About Me
 - 🎓 Graduate in **Computer Science.**
