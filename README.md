@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="350px" src="prog.svg"></a>
 
 
-<h1 align="center"> Hi 👋, I'm Braian Calot. </h1> 
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="28px">, I'm Braian Calot. </h1> 
 <h3 align="center">A Web Development passionate about programming.</h3>
 
 ## 🙋‍♂ About Me
