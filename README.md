@@ -52,6 +52,7 @@
   <img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiancalot&hide=html&layout=compact&theme=tokyonight&hide_border=true&stroke=0000"/>
 </div>
 
+ ![Snake animation](https://github.com/braiancalot/naaracrv/blob/output/github-contribution-grid-snake.svg)
 
 
  
