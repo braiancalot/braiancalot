@@ -2,15 +2,15 @@
 
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="28px">, I'm Braian Calot. </h1> 
-<h3 align="center">Software Developer passionate about the full product journey, from architecture to a great UI.</h3>
+<p align="center">Software Developer passionate about the full product journey, from architecture to a great UI.</p>
 
 ## 🙋‍♂ About Me
 - 🎓 Graduate in **Computer Science.**
-- 🖥️ **Software Developer** at Lume Robotics, building a web-based monitoring and control system for autonomous vehicle operations..
+- 🖥️ **Software Developer** at Lume Robotics, building a web-based monitoring and control system for autonomous vehicle operations.
 - 🌎 I live in **Brazil.**
 - ⚡ Fun fact: I love to play games.
 
-<h2> 🛠️ Tech Stack </h2>
+<h3> 🛠️ Tech Stack </h2>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
@@ -24,13 +24,13 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
   
-<h2>📲 Connect with me</h2>
+<h3>📲 Connect with me</h2>
 <a href="https://www.linkedin.com/in/braiancalot/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/braian.calot/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC_saKlMQ_08XvZ63i2jtf4A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   
 <br>	
-<h2> ⚙️  GitHub Analytics </h2>
+<h3> ⚙️  GitHub Analytics </h2>
 <br>
 <div align="center">
   <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=braiancalot&theme=tokyonight&hide_border=true&stroke=0000"/>
